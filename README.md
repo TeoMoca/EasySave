@@ -1,4 +1,5 @@
 # EsaySave
 
 ##**Members**
-##### Téo Montlouis-Calixte
+##### TÃ©o Montlouis-Calixte
+##### Thibaut Liger-Hellard
