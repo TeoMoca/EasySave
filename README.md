@@ -1,5 +1,6 @@
-# EsaySave
+# EasySave
 
 ##**Members**
-##### Téo Montlouis-Calixte
+##### TÃ©o Montlouis-Calixte
+##### Thibaut Liger-Hellard
 ##### Mohamed El Habnouni
