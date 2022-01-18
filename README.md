@@ -1,4 +1,4 @@
-# EsaySave
+# EasySave
 
 ##**Members**
 ##### Téo Montlouis-Calixte
